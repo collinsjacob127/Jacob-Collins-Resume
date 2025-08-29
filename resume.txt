@@ -1,0 +1,30 @@
+Jacob B. Collins
+jbcollins@csuchico.edu
+(925) 207-0765 | Chico, CA
+LinkedIn: https://www.linkedin.com/in/collinsjacob127/, GitHub: CollinsJacob127
+SUMMARY
+Computer Science Student Research Assistant and Software Engineer with experience in academic Quantum Computing research, web development, and network science. Committed to leveraging advanced data analytics, parallel computing, and embedded systems to develop robust solutions. Enthusiastic about using 3D printing for rapid design iteration and integrating microcontrollers to drive high-impact, interdisciplinary research.
+Programming languages: C/C++, Python, R, OCaml, Rust, HTML, CSS, JS
+EMPLOYMENT
+Student Research Assistant –  advised by Dr. Jaime Raigoza & Dr. Sam Siewert
+Student lead for research efforts to design Quantum Computing algorithms, to be compared against equivalent parallel solutions. Quantum circuits implemented with CUDA-Q: C++.Chico State Enterprises
+June 2024 – Present
+EDUCATION
+B.S. Computer Science [CS] (IP)
+GPA: 3.61California State University, Chico
+Expected Completion: December 2025Data Science Certificate [DS] (IP)
+GPA: 3.61California State University, Chico
+Expected Completion: December 2025M.S. Computer Science [CS] (TBD)California State University, Chico
+Expected Completion: December 2026PROJECTS
+Iterative Prisoner’s Dilemma
+Simulated an iterative adaptation of the prisoner’s dilemma on a variety of networks. Automated visualization of model statistics.Hosted on GitHub
+Skills: Python, NetworkX, Matplotlib
+Tetromino Versus
+Online block stacking game with global leaderboards. It can be played in a web browser. A user’s score can easily be uploaded to the global leaderboard alongside their username after a run is finished.Hosted on GitHub Pages
+Skills: Flutter, Web DesignEXTRACURRICULAR ACTIVITY
+CSCI Research Club President – advised by Dr. Richard Tillquist
+The CSCI Research Club meets weekly to discuss recent discoveries and innovations in the field of Computer Science.California State University, Chico
+August 2023 - PresentHomeless Shelter Winter Volunteer – Registration Crew 
+Assisted with check-in and property processing on weekends.Safe Space Homeless Shelter
+Winter 2022, Winter 2023ABOUT ME
+Between my passion for photography, weekend hikes, and the sound of my electric bass, I’m always looking for new ways to unleash my creativity. Writing custom scripts to modify the photos I take was one of the first experiences I had with Computer Science, and that motivation has only increased over time. I enjoy carpentry projects that allow me to build practical solutions from the ground up, and I make time to guide and support other students whenever possible. I consider myself a safe space for others, and always try to be considerate of my peers. I appreciate quick wit and a good sense of humor, because life is far better when everyone is enjoying themselves.
