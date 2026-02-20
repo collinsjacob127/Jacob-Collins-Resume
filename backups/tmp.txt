@@ -1,0 +1,49 @@
+
+Integrated MPI & OpenMP modifications to NASA’s General Mission Analysis Tool. 
+Achieved 2,387% speedup on 62x Monte-Carlo simulation trials distributed across 36x 2-core nodes, 
+compared to sequential runtime.
+
+
+Designed a dynamic quantum circuit generator using CUDA-Q which can find factors of large 
+semiprimes using asymptotically lesser qubits than existing methods.
+Ran simulations with Slurm using a custom Singularity container on the SDSC 
+Expanse supercomputer.
+
+
+Wrote a distributed prime number sieve in C which uses MPI to divide the search 
+region evenly across all nodes. OpenMP is used to parallelize the local filtering 
+through each node’s region. The prime sieve itself is stored as a binary mapping 
+to maximize memory efficiency. Tests were run using Slurm with provided 
+Singularity containers on SDSC Expanse. I achieved 13,482% speedup (99.3% parallel)
+compared to the sequential runtime searching for all primes below 10 billion.
+
+
+
+Designed and implemented the relay server, cross-NAT P2P, physics, engine, and 
+website for a 2-player arcade-style fighting game with cross-platform support, 
+using only standard library functions for everything besides the GUI, which 
+uses SDL3. Cross-platform support for Windows and UNIX systems. CMake was used 
+for build automation and generation of installation wizard. Website and relay 
+server both hosted on Google Compute Engine (GCE) VMs.
+
+
+Simulated an iterative adaptation of the prisoner’s dilemma on a variety of 
+networks. Automated generation of animations visualizing model statistics.
+
+
+Constructed a conversion & processing pipeline for extracting road networks 
+from Open Street Map (OSM) data. Prioritized memory efficiency by parsing file 
+streams to generate a network with less unnecessary overhead. 
+
+
+
+Led research efforts to design Quantum Computing algorithms, to be compared 
+against equivalent parallel solutions. Quantum circuits implemented with 
+CUDA-Q in C++.
+
+
+
+
+
+
+
